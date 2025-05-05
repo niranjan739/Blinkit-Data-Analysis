@@ -18,6 +18,18 @@
  	Objective:Analyze the impact of fat content on total sales. 
 	Additional KPI Metrics: Assess how other KPIs( Average Sales, Number of Items,Average Rating) vary with fat content.   
 	Chart Type: Donut Chart.
+ 
+ **2. Total Sales by Item Type:**
+	
+ 	Objective: Identify the performance of different item types in terms of total sales. 
+	Additional KPI Metrics: Assess how other KPIs( Average Sales, Number of items, Average Rating) vary with fat content.  
+	Chart Typpe: Bar Chart.
+
+**3. Fat Content by Outlet for Total Sales:**
+	
+ 	Objective: Compare total sales acros differnt outlets segmented by fat content. 
+	Additional KPI Metrics: Assess how other KPIs(Average Sales, Number of Items, Average Rating) vary with fat content.  
+	Chart Type: Stacked Column  Chart.
 
  
 
