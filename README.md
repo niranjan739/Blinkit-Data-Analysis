@@ -10,3 +10,14 @@
  2. Average Sales: The average revenue per sale.
  3. Number of items: The total count of different items sold.
  4. Average Rating: The average customer rating for items sold.
+
+**Chart's Requirements**
+
+**1. Total Sales by Fat Content:**
+	
+ Objective:Analyze the impact of fat content on total sales. 
+	Additional KPI Metrics: Assess how other KPIs( Average Sales, Number of Items,Average Rating) vary with fat content.  
+	Chart Type: Donut Chart.  
+
+ 
+
