@@ -31,5 +31,16 @@
 	Additional KPI Metrics: Assess how other KPIs(Average Sales, Number of Items, Average Rating) vary with fat content.  
 	Chart Type: Stacked Column  Chart.
 
+**4. Total Sales by Outlet Establishment:**
+	
+ 	Objective: Evaluate how the age or type of outlet establishment influences total sales. 
+	Chart Type: Line Chart.
+
+ 
+**5. Sales by Outlet Size:**
+	
+ 	Objective: Analyze the correlation outlet size and total sales. 
+	Chart Type: Donut/ Pie Chart.
+
  
 
